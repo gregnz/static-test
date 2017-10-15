@@ -1,8 +1,7 @@
 ---
 title: This is a test page
-date: 2017-10-08 20:20:00 +0000
+date: 2017-10-09 09:20:00 +13:00
 ---
-
 
 # This is a test.
 
