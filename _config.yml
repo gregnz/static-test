@@ -23,6 +23,6 @@ url:
 twitter_username: greg.day@homes.co.nz
 github_username: jekyll
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-dinky
 plugins:
 - jekyll-feed
