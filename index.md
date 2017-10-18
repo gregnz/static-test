@@ -19,27 +19,4 @@ This is the locally updated version
 </ul>
 
 
-<div class="span3">
-{{ site.posts | size }}
-{{ site.pages | size }}
-{% for post in site.posts limit:n %}
-{{ post | content }}
-{% endfor %}
 
-</div>
--------------------------
-<div class="span3">
-
-{% for post in site.posts limit:n offset:n%}
-{{ post | content }}
-{% endfor %}
-
-</div>
-------------------------
-<div class="span3">
-
-{% for post in site.posts limit:n offset:m %}
-{{ post | content }}
-{% endfor %}
-
-</div>
