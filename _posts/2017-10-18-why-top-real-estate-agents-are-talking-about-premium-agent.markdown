@@ -5,6 +5,7 @@ date: 2017-10-18 14:56:00 +13:00
 
 ![Screen-Shot-2017-09-19-at-1.26.43-PM.png](/uploads/Screen-Shot-2017-09-19-at-1.26.43-PM.png)
 
+
 We’ve been rapidly growing our base of Premium Agents on Homes.co.nz, in fact we’ve seen 500% Premium Agent growth this year alone.
 
 One of the biggest questions we get asked is how Homes.co.nz is changing the digital space for Real Estate.
