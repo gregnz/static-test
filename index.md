@@ -2,6 +2,7 @@
 title: blog.homes.co.nz
 layout: home
 ---
+
 <div class="row">
   {% for post in site.posts %}
     <div class="col-md-4">
