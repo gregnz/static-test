@@ -1,5 +1,6 @@
 ---
 ---
+@import "minima";
 
 @charset "utf-8";
 
@@ -10,3 +11,18 @@ $icon-font-path: "/bower_components/bootstrap-sass/assets/fonts/bootstrap/";
 
 /* any style customization must be before the bootstrap import */
 @import "bootstrap";
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 100%;
+  padding: 15px;
+  width: auto;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: 20rem;
+}

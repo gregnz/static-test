@@ -1,6 +1,7 @@
 ---
 title: Auckland CV update in November
 date: 2017-10-18 14:50:00 +13:00
+layout: post
 ---
 
 ![Final-07.png](/uploads/Final-07.png)

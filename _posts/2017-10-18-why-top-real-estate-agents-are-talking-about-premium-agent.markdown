@@ -1,6 +1,7 @@
 ---
 title: Why top real-estate agents are talking about Premium Agent
 date: 2017-10-18 14:56:00 +13:00
+layout: post
 ---
 
 ![Screen-Shot-2017-09-19-at-1.26.43-PM.png](/uploads/Screen-Shot-2017-09-19-at-1.26.43-PM.png)
