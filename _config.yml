@@ -29,5 +29,5 @@ plugins:
 sass:
   style: compressed
   load_paths:
-    - bower_components/bootstrap-sass/assets/stylesheets
-    - _sass
+  - bower_components/bootstrap-sass/assets/stylesheets
+  - _sass
