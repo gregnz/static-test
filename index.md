@@ -1,5 +1,5 @@
 ---
-title: My index page
+title: blog.homes.co.nz
 layout: home
 ---
 
