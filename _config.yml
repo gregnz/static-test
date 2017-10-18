@@ -28,6 +28,4 @@ plugins:
 - jekyll-feed
 sass:
   style: compressed
-  load_paths:
-  - _sass
-  - bower_components/bootstrap-sass/assets/stylesheets
+  sass_dir: bower_components/bootstrap-sass/assets/stylesheets
