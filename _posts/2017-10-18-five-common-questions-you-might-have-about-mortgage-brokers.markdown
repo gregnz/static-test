@@ -5,9 +5,8 @@ layout: post
 ---
 
 ![Mike-Pero-2.jpg](/uploads/Mike-Pero-2.jpg)
-
-
 When it comes time to purchase a house, whether you’re a seasoned investor or a first home buyer, it pays to get good advice. 
+
 
 #Five Common Questions You Might Have About Mortgage Brokers
 
