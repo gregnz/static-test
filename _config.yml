@@ -1,7 +1,6 @@
 ---
 title: homes.co.nz
 timezone: Pacific/Auckland
-url: http://yourdomain.com
 collections:
   people:
     title: People
@@ -15,12 +14,12 @@ collections:
   uploads:
     title: Uploads
     output: true
+url: 
 email: greg.day@homes.co.nz
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
 baseurl: 
-url: 
 twitter_username: greg.day@homes.co.nz
 github_username: jekyll
 markdown: kramdown
