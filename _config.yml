@@ -1,6 +1,7 @@
 ---
 title: homes.co.nz
 timezone: Pacific/Auckland
+url: http://yourdomain.com
 collections:
   people:
     title: People
